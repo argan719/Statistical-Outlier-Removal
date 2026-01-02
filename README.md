@@ -4,16 +4,16 @@
 <br>
 
 Original author: Hyungtae Lim (shapelim@kaist.ac.kr) https://github.com/LimHyungTae/pcl_tutorial
-<br>
+<br><br>
 
 ### Compile
 
-~/sor/build$ cmake .. <br>
-~/sor/build$ make
+$ ~/sor/build$ cmake .. <br>
+$ ~/sor/build$ make
 
 ### Run
 
-~/sor/build$ ./lec07_sor
+$ ~/sor/build$ ./lec07_sor <br>
 
 
 ### Description
@@ -25,8 +25,7 @@ Original author: Hyungtae Lim (shapelim@kaist.ac.kr) https://github.com/LimHyung
 
 
 
-#### Input: pcd <br>
-#### Output: point cloud visualization - 2d_projection.png
+### Input: pcd / Output: result.png
 
 
 <br>
