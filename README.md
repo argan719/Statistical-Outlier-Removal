@@ -26,8 +26,9 @@ Original author: Hyungtae Lim (shapelim@kaist.ac.kr) https://github.com/LimHyung
 ~/sor/build$ make <br>
 
 ### Run
+#### Input: pcd / Output: result.png
 
-~/sor/build$ ./lec07_sor <br><br>
+~/sor/build$ ./lec07_sor <br>
 
 
 
@@ -38,5 +39,4 @@ Original author: Hyungtae Lim (shapelim@kaist.ac.kr) https://github.com/LimHyung
 <img width="612" alt="image" src="https://github.com/argan719/SOR/assets/64789601/7256ebf6-ff7b-4de3-a2c6-13cee7ff2015">
 <img width="612" alt="image" src="https://github.com/argan719/SOR/assets/64789601/15a1b076-d305-4d92-8265-1461ca7e0856">
 
-### Input: pcd / Output: result.png
 
