@@ -8,12 +8,12 @@ Original author: Hyungtae Lim (shapelim@kaist.ac.kr) https://github.com/LimHyung
 
 ### Compile
 
-$ ~/sor/build$ cmake .. <br>
-$ ~/sor/build$ make
+~/sor/build$ cmake .. <br>
+~/sor/build$ make <br>
 
 ### Run
 
-$ ~/sor/build$ ./lec07_sor <br>
+~/sor/build$ ./lec07_sor <br><br>
 
 
 ### Description
@@ -24,8 +24,7 @@ $ ~/sor/build$ ./lec07_sor <br>
 <br>
 
 
-
-### Input: pcd / Output: result.png
+#### Input: pcd / Output: result.png
 
 
 <br>
