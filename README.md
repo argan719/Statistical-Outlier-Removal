@@ -17,7 +17,7 @@ Original author: Hyungtae Lim (shapelim@kaist.ac.kr) https://github.com/LimHyung
 <br>
 
 
-#### Input: pcd / Output: result.png
+### Input: pcd / Output: result.png
 
 <br>
 
@@ -31,7 +31,6 @@ Original author: Hyungtae Lim (shapelim@kaist.ac.kr) https://github.com/LimHyung
 ~/sor/build$ ./lec07_sor <br><br>
 
 
-<br>
 
 ### Result <br>
 (Before/ After) <br>
