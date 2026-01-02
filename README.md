@@ -12,27 +12,26 @@ Original author: Hyungtae Lim (shapelim@kaist.ac.kr) https://github.com/LimHyung
 ### Description
 - <b>Denoising:</b> Applies a Statistical Outlier Removal(SOR) filter to clean the input 3D data.
 - <b>2D Projection:</b> Converts the filtered 3D point cloud into a 2D top-down image by removing the Z-axis.
-- <b>Build Improvement:</b> The project was refactored with a standalone CMkae build for the SOR module to improve modularity and simplify compilation.
+- <b>Build Improvement:</b> The project was refactored with a standalone CMkae build for the SOR module to improve modularity and simplify compilation. <br> <br>
 
+---
 <br>
 
-
-
-<br>
 
 ### Compile
 
 ~/sor/build$ cmake .. <br>
-~/sor/build$ make <br>
+~/sor/build$ make <br><br>
 
 ### Run
+
+~/sor/build$ ./lec07_sor <br><br>
+
+
+
+### Result 
 #### Input: pcd / Output: result.png
 
-~/sor/build$ ./lec07_sor <br>
-
-
-
-### Result <br>
 (Before/ After) <br>
 <img width="613" alt="image" src="https://github.com/argan719/SOR/assets/64789601/1c30fa74-ef9f-452f-a082-de2318f6d840">
 <img width="613" alt="image" src="https://github.com/argan719/SOR/assets/64789601/3372c4f8-9c57-4111-ad80-f33225581e4c">
