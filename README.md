@@ -6,14 +6,7 @@
 Original author: Hyungtae Lim (shapelim@kaist.ac.kr) https://github.com/LimHyungTae/pcl_tutorial
 <br><br>
 
-### Compile
 
-~/sor/build$ cmake .. <br>
-~/sor/build$ make <br>
-
-### Run
-
-~/sor/build$ ./lec07_sor <br><br>
 
 
 ### Description
@@ -25,6 +18,17 @@ Original author: Hyungtae Lim (shapelim@kaist.ac.kr) https://github.com/LimHyung
 
 
 #### Input: pcd / Output: result.png
+
+<br>
+
+### Compile
+
+~/sor/build$ cmake .. <br>
+~/sor/build$ make <br>
+
+### Run
+
+~/sor/build$ ./lec07_sor <br><br>
 
 
 <br>
